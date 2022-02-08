@@ -1,0 +1,8 @@
+.card-container__basic {
+    border-style:solid;
+    border-width: 1px;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
